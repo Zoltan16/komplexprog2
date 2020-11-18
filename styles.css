@@ -1,0 +1,60 @@
+header
+{
+    font-weight: bold;
+    font-size: 42px;
+}
+
+#focim
+{
+    text-align: center;
+}
+
+.feladat
+{
+    font-size: 20px;
+    color: darkgoldenrod;
+}
+
+.feladat1
+{
+    color: darkgoldenrod;
+}
+
+.bekezdes
+{
+    margin-left: 5%;
+    margin-right: 5%;
+    background-color: grey;
+    border: 10px solid white;
+    border-radius: 10px;
+}
+
+.bekezdes1
+{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+#wrapper
+{
+    font-family: 'Calibri';
+}
+
+
+nav{
+    text-align: center;
+    position: relative;
+}
+
+.card-title
+{
+    text-align: center;
+}
+
+#Pontozolap
+{
+    margin-left:  800px;
+}
+
+
+/* Nagy Zoltán 11.B 2020.11.18. */
